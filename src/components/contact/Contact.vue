@@ -58,20 +58,25 @@
           <div class="flex flex-col items-center">
             <div>
               <div class="flex flex-row">
-                <div class="bg-user w-6 bg-no-repeat"></div>
-                <h3 class="flex items-center ml-3 font-semibold">Civic Theatre Building 15 N Charles Dr., Suite 1500 Charlestone, SC 68776</h3>
+                <div class="bg-location w-8 mr-3 md:mr-3   md:w-6 bg-no-repeat"></div>
+                <h3 class="flex items-centerml-3 font-semibold">Civic Theatre Building 15 N Charles Dr., Suite 1500 Charlestone, SC 68776</h3>
               </div>
               <div class="flex flex-row">
+                <div class="bg-phone w-6 bg-no-repeat"></div>
                 <h3 class="flex items-center ml-3 font-semibold">0121 232 4900</h3>
               </div>
               <div class="flex flex-row">
+                <div class="bg-email w-6 bg-no-repeat"></div>
                 <h3 class="flex items-center ml-3 font-semibold">mega.shoper9199@gmail.com</h3>
               </div>
               <div class="flex flex-row">
-                <div class="flex flex-col ml-3 mb-6 font-semibold">
-                  <div class="bg-user"></div><h4>Monday to Friday: 9am - 7pm</h4>
-                  <h4>Saturday: 9am - 2pm</h4>
-                  <h4>Sunday: By Appointment Only</h4>
+                <div class="flex flex-row mb-6 font-semibold">
+                  <div class="bg-workhours w-6 h-6 bg-no-repeat"></div>
+                  <div class="ml-3">
+                    <h4>Monday to Friday: 9am - 7pm</h4>
+                    <h4>Saturday: 9am - 2pm</h4>
+                    <h4>Sunday: By Appointment Only</h4>
+                  </div>
                 </div>
               </div>
             </div>

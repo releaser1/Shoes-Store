@@ -10,7 +10,7 @@
         <h1 class="text-2xl font-semibold mb-4">Sign In</h1>
         <div class=" border w-full">
           <div class="flex items-center p-2">
-            <div class="w-6 h-6 bg-user bg-no-repeat p-4 ml-4"></div>
+            <div class="w-6 h-6 bg-email bg-no-repeat p-4 ml-4"></div>
             <input
               v-model="email"
               type="email"
