@@ -75,7 +75,7 @@
                   <div class="ml-3">
                     <h4>Monday to Friday: 9am - 7pm</h4>
                     <h4>Saturday: 9am - 2pm</h4>
-                    <h4>Sunday: By Appointment Only</h4>
+                    <h4>Sunday : By Appointment Only</h4>
                   </div>
                 </div>
               </div>
